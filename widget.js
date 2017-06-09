@@ -499,7 +499,7 @@ cpdefine("inline:com-chilipeppr-widget-tinyg", ["chilipeppr_ready", "jquerycooki
                 var that = this;
                 chilipeppr.load(
                     "#com-chilipeppr-widget-tinyg-holderAreaForConfigWidget", 
-                    'http://fiddle.jshell.net/khauser/vc1vd3n5/show/light', function () {
+                    'widgets/widget-configtinyg/auto-generated-widget.html', function () {
                     require(["inline:com-chilipeppr-widget-configtinyg"], function (configtinyg) {
 
                         // We get here after the widget is loaded and instantiated
